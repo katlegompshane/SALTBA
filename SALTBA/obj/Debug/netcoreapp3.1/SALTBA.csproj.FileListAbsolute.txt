@@ -1,0 +1,7 @@
+C:\Users\KatlegoMpshane\source\repos\SALTBA\SALTBA\obj\Debug\netcoreapp3.1\SALTBA.csproj.AssemblyReference.cache
+C:\Users\KatlegoMpshane\source\repos\SALTBA\SALTBA\obj\Debug\netcoreapp3.1\SALTBA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KatlegoMpshane\source\repos\SALTBA\SALTBA\obj\Debug\netcoreapp3.1\SALTBA.AssemblyInfoInputs.cache
+C:\Users\KatlegoMpshane\source\repos\SALTBA\SALTBA\obj\Debug\netcoreapp3.1\SALTBA.AssemblyInfo.cs
+C:\Users\KatlegoMpshane\source\repos\SALTBA\SALTBA\obj\Debug\netcoreapp3.1\SALTBA.csproj.CoreCompileInputs.cache
+C:\Users\KatlegoMpshane\source\repos\SALTBA\SALTBA\obj\Debug\netcoreapp3.1\SALTBA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KatlegoMpshane\source\repos\SALTBA\SALTBA\obj\Debug\netcoreapp3.1\SALTBA.MvcApplicationPartsAssemblyInfo.cache
